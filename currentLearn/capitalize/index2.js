@@ -7,6 +7,6 @@
 //   capitalize('a lazy fox') --> 'A Lazy Fox'
 //   capitalize('look, it is working!') --> 'Look, It Is Working!'
 
-function capitalize(str) {}
+function capitalize2(str) {}
 
-module.exports = capitalize;
+module.exports = capitalize2;
