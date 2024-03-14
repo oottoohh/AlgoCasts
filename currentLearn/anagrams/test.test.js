@@ -1,5 +1,5 @@
 const anagrams1 = require("./index.js");
-const anagrams2 = require("./index.js");
+const anagrams2 = require("./index2.js");
 
 test("anagrams function exists", () => {
   expect(typeof anagrams1).toEqual("function");
