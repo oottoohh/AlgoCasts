@@ -1,6 +1,6 @@
 const palindrome1 = require("./index");
-const palindrome2 = require("./index");
-const palindrome3 = require("./index");
+const palindrome2 = require("./index2");
+const palindrome3 = require("./index3");
 
 test("palindrome function is defined", () => {
   expect(typeof palindrome1).toEqual("function");
