@@ -1,6 +1,6 @@
 const capitalize1 = require("./index");
-const capitalize2 = require("./index");
-const capitalize3 = require("./index");
+const capitalize2 = require("./index2");
+const capitalize3 = require("./index3");
 
 test("Capitalize is a function", () => {
   expect(typeof capitalize1).toEqual("function");
