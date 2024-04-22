@@ -6,7 +6,7 @@
   "author": "ottoh hidayatullah <ottoh.hidayatullah@ai.astra.co.id>",
   "license": "MIT",
   "scripts": {
-    "test": "yarn jest ./steps/test.test.js && yarn jest ./reverseint/test.test.js && yarn jest ./reversestring/test.test.js && yarn jest ./palindrome/test.test.js && yarn jest ./mergeSortArray/test.test.js && yarn jest ./maxchar/test.test.js && yarn jest ./fizzbuzz/test.test.js && yarn jest ./chunk/test.test.js && yarn jest ./capitalize/test.test.js && yarn jest ./anagrams/test.test.js"
+    "test": "yarn jest ./vowels/test.test.js && yarn jest ./steps/test.test.js && yarn jest ./reverseint/test.test.js && yarn jest ./reversestring/test.test.js && yarn jest ./palindrome/test.test.js && yarn jest ./mergeSortArray/test.test.js && yarn jest ./maxchar/test.test.js && yarn jest ./fizzbuzz/test.test.js && yarn jest ./chunk/test.test.js && yarn jest ./capitalize/test.test.js && yarn jest ./anagrams/test.test.js"
   },
   "dependencies": {
     "jest": "^29.7.0"
